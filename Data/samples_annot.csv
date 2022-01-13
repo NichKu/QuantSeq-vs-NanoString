@@ -1,0 +1,16 @@
+﻿pop,center,assay,sample,experiment,run,condition,patient,DV200,input
+XX,CGL,LexogenQuantSeq3mRNA_FWD,14_post,PrePost,NextSeq1_0,post,P14,40,200.5
+XX,CGL,LexogenQuantSeq3mRNA_FWD,14_pre,PrePost,NextSeq1_0,pre,P14,7.8,189.95
+XX,CGL,LexogenQuantSeq3mRNA_FWD,15_pre,PrePost,NextSeq1_0,pre,P15,57,209.82
+XX,CGL,LexogenQuantSeq3mRNA_FWD,26_post,PrePost,NextSeq1_0,post,P26,48.5,191.43
+XX,CGL,LexogenQuantSeq3mRNA_FWD,26_pre,PrePost,NextSeq1_0,pre,P26,66.6,190.01
+XX,CGL,LexogenQuantSeq3mRNA_FWD,34_post,PrePost,NextSeq1_0,post,P34,41.5,200.14
+XX,CGL,LexogenQuantSeq3mRNA_FWD,34_pre,PrePost,NextSeq1_0,pre,P34,16.7,95.4
+XX,CGL,LexogenQuantSeq3mRNA_FWD,36_post,PrePost,NextSeq1_0,post,P36,21,197.16
+XX,CGL,LexogenQuantSeq3mRNA_FWD,36_pre,PrePost,NextSeq1_0,pre,P36,38.2,171.19
+XX,CGL,LexogenQuantSeq3mRNA_FWD,66_post,PrePost,NextSeq1_0,post,P66,53.7,200.7
+XX,CGL,LexogenQuantSeq3mRNA_FWD,66_pre,PrePost,NextSeq1_0,pre,P66,22.6,201.07
+XX,CGL,LexogenQuantSeq3mRNA_FWD,88_post,PrePost,NextSeq1_0,post,P88,19.7,192.95
+XX,CGL,LexogenQuantSeq3mRNA_FWD,88_pre,PrePost,NextSeq1_0,pre,P88,23.8,199.81
+XX,CGL,LexogenQuantSeq3mRNA_FWD,9_post,PrePost,NextSeq1_0,post,P9,45.2,165.42
+XX,CGL,LexogenQuantSeq3mRNA_FWD,9_pre,PrePost,NextSeq1_0,pre,P9,19.4,188.89
